@@ -1,7 +1,7 @@
 [
   {
     "remote": "gh",
-    "repository": "TeslaRom-Devices/android_kernel_motorola_ghost",
+    "repository": "TESLARom-Devices/android_kernel_motorola_ghost",
     "target_path": "kernel/motorola/ghost",
     "revision": "kitkat"
   }

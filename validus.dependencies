@@ -1,8 +1,8 @@
 [
   {
     "remote": "gh",
-    "repository": "DJLaMontagneIII/android_kernel_motorola_ghost",
+    "repository": "TeslaRom-Devices/android_kernel_motorola_ghost",
     "target_path": "kernel/motorola/ghost",
-    "revision": "DJL11"
+    "revision": "kitkat"
   }
 ]
